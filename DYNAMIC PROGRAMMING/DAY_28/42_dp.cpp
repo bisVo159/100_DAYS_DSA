@@ -11,6 +11,7 @@ int main(){
     // step2: rest of the string is ans
 
     // 1092. Shortest Common Supersequence
+    // Shortest Common Supersequence -> gfg
 
     return 0;
 }

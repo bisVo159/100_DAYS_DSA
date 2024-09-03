@@ -6,6 +6,7 @@ int main(){
     // All divisors of a Number -> gfg
 
     // Prime Factors -> gfg
+    // O(sqrt(n)*logn)
     // 50. Pow(x, n)
     // O(logn)
     return 0;
